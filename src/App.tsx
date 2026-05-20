@@ -12,9 +12,9 @@ export default function App() {
   const [currentInstaImage, setCurrentInstaImage] = useState(0);
 
   const instaImages = [
-    "https://res.cloudinary.com/dqukldtq1/image/upload/v1777072823/WhatsApp_Image_2026-04-24_at_8.14.26_PM_1_mhc0dh.jpg",
-    "https://res.cloudinary.com/dqukldtq1/image/upload/v1777072823/WhatsApp_Image_2026-04-24_at_8.14.26_PM_e21zk4.jpg",
-    "https://res.cloudinary.com/dqukldtq1/image/upload/v1777072820/WhatsApp_Image_2026-04-24_at_8.14.25_PM_eu4h6r.jpg"
+    "https://res.cloudinary.com/dmn4b5luu/image/upload/q_auto/f_auto/v1779292279/WhatsApp_Image_2026-04-24_at_8.14.26_PM_ehztxl.jpg",
+    "https://res.cloudinary.com/dmn4b5luu/image/upload/q_auto/f_auto/v1779292279/WhatsApp_Image_2026-04-24_at_8.14.26_PM_1_cauox3.jpg",
+    "https://res.cloudinary.com/dmn4b5luu/image/upload/q_auto/f_auto/v1779292278/WhatsApp_Image_2026-04-24_at_8.14.25_PM_vubcn3.jpg"
   ];
 
   useEffect(() => {
